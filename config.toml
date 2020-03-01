@@ -1,4 +1,12 @@
 baseURL = "https://xieweialex.github.io/"
 languageCode = "en-us"
-title = "Collect thoughts from daily wondering"
-theme = "ananke"
+title = "Alex's random blog"
+theme = "github-style"
+
+[params]
+  author = "Alex Xie"
+  description = "This my personal blog"
+  github = "xieweiAlex"
+  twitter = "xiewei_alex"
+  email = "alex.xie2016@gmail.com"
+  avatar = "https://i.pinimg.com/originals/8d/ec/f9/8decf9caed777b8d0d698e01270ce308.png"

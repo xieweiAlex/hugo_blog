@@ -1,20 +1,46 @@
+---
+title: "Review of the article \"The Feedback Fallacy\""
+date: 2020-02-10
+draft: false
+---
 
-## Review of the article "The Feedback Fallacy"
+## Here is the article [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
 
-Recently I read the article [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy), I was amazed, I've thought it for a long time, as I was born and raised in a traditional Asian culture which encourage submission and patriarchy, I have a weak ego and incline to follow others whenever possible. But since I left my hometown and living alone metro cities for years, I found myself became more self-center, independent, and most importantly, happier. I know what I'm doing, I know what I want and I'm doing my own best in the present, I tend to take rejection more relax, I only worry about letting myself down and lose my hope. 
+Recently I read the article The Feedback Fallacy, I was amazed, I've thought it for a while, as I was raised in a traditional Asian culture which encourages submissiveness in a patriarchy way, I got a weak ego and incline to follow others whenever possible. But since I left my hometown and living alone in few metro cities for years, I found myself became more self-center, independent, and most importantly, happier. I know what I'm doing, I know what I want and I'm doing my own best in the present, I tend to take rejection more relax, I only worry about letting myself down and lose my hope. 
+
+I tried really hard to find my own passion and proudness. I want to be happy and proud, relax and determined, it's really hard since most of my friends who are Chinese, my family members are still live in collective society, most of personal experience were there as well. I believe the individualism, I'd like to record some excerpts to remind myself every once in a while.
 
 ### The Source of Truth
 > The first problem with feedback is that humans are unreliable raters of other humans. Over the past 40 years psychometricians have shown in study after study that people don’t have the objectivity to hold in their heads a stable definition of an abstract quality, such as business acumen or assertiveness, and then accurately evaluate someone else on it. Our evaluations are deeply colored by our own understanding of what we’re rating others on, our own sense of what good looks like for a particular competency, our harshness or leniency as raters, and our own inherent and unconscious biases
 
+> Just as your doctor doesn’t know the truth of your pain, we don’t know the truth about our colleagues, at least not in any objective way
+
+It's very hard to feel someone else's feeling, especially when you don't know them or their personal history very well. The same as "don't judge", because it's just hard to tell. 
+
+> And the third belief is that great performance is universal, analyzable, and describable, and that once defined, it can be transferred from one person to another, regardless of who each individual is.
+
+
+> Focusing people on their shortcomings doesn't enable learning; it impairs it.
+> This is the “fight or flight” system, which mutes the other parts of the brain and allows us to focus only on the information most necessary to survive. Your brain responds to critical feedback as a threat and narrows its activity
+
+Sometimes I got this bad habit, I feel it's my obligation as a friend (family member) to point out their drawbacks, it's helping them. I've got lots of pushback, and I got confused or hurt lots of times. I should have more patients, I don't want to hurt others just because I want to help.   
+
 
 > We’re often told that the key to learning is to get out of our comfort zones, but these findings contradict that particular chestnut: Take us very far out of our comfort zones, and our brains stop paying attention to anything other than surviving the experience. It’s clear that we learn most in our comfort zones, because that’s where our neural pathways are most concentrated. It’s where we’re most open to possibility, most creative, insightful, and productive  
 
+This part shocked me, it's so true. Looking back my own history, I did feel very excited about stepping out my comfort zone and gaining new experience/skills, but it was only true when I knew what I was doing, I knew what was wanting. It would be a huge pain dragging or pushing by others out of my own comfort zone, maybe few times I made it, I do appreciate those "help", but I'm very sure lots of times those "help" are just in vain and introduced struggle.
 
 ### Excellence
 
 > Excellence is idiosyncratic  
-
+> Excellence is also not the opposite of failure. If you study failure, you’ll learn a lot about failure but nothing about how to achieve excellence. Excellence has its own pattern.
 
 ### How to Help myself Excel
 
+
+Everyone's current status is the summation of his personal experience and family(raised situation) background or other random facts.  
+
+### random 
+
+Instead of asking and listening from others, why don't we dedicate some time (customize a habit would be the best) to listen from ourselves, of course, you can get self bias  
 

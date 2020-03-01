@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/xieweiAlex/xieweialex.github.io
 	branch = master
+[submodule "themes/github-style"]
+	path = themes/github-style
+	url = git@github.com:MeiK2333/github-style.git
