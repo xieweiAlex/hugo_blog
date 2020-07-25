@@ -2,6 +2,7 @@
 title: "Review of the article \"The Feedback Fallacy\""
 date: 2020-02-10
 draft: false
+tags: [ "reading" ]
 ---
 
 ## Here is the article [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
