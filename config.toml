@@ -1,12 +1,64 @@
 baseURL = "https://xieweialex.github.io/"
 languageCode = "en-us"
-title = "Alex's random blog"
-theme = "github-style"
+title = "Alex's personal blog"
+theme = "pulp"
+canonifyurls = true
+hasCJKLanguage = true
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow user HTML tags
 
 [params]
   author = "Alex Xie"
-  description = "This my personal blog"
   github = "xieweiAlex"
   twitter = "xiewei_alex"
   email = "alex.xie2016@gmail.com"
-  avatar = "https://i.pinimg.com/originals/8d/ec/f9/8decf9caed777b8d0d698e01270ce308.png"
+  avatar = "avatar.jpg"
+  favicon = "favicon.ico"
+  description = """
+  This is my personal blog collecting my daily random thoughts. I'd like to write things down to make my thinking process clear, to improve my English writing ability. One stone two birds, what a good idea! 😄 
+  """
+  publicationYear = "2020"
+
+
+[outputs]
+  section = ["JSON", "HTML"]
+  taxonomy = ["JSON", "HTML"]
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog" 
+  pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
+  url = "/post/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class='fab fa-twitter fa-lg'></i>"
+  url = "https://twitter.com/xiewei_alex"
+  weight = 20
+
+[[menu.main]]
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class='fab fa-github fa-lg'></i>"
+  url = "https://github.com/xieweiAlex"
+  weight = 30
+
+[[menu.main]]
+  identifier = "youtube"
+  name = "Youtube"
+  pre = "<i class='fab fa-youtube fa-lg'></i>"
+  url = "https://www.youtube.com/channel/UCgFrimsQG9wYwElqT0by2wg/featured"
+  weight = 40
+
+[[menu.main]]
+  identifier = "email"
+  name = "Email"
+  pre = "<i class='fa fa-envelope fa-lg'></i>"
+  url = "mailto:alex.xie2016+blog@gmail.com"
+  weight = 50
+
+
+
