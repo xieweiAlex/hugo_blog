@@ -1,7 +1,7 @@
 
 ---
 title: "INTJ is the way"
-date: 2020-08-21
+date: 2022-08-21
 draft: false
 tags: [ "summary", "strategy" ]
 ---
