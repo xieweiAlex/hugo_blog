@@ -1,6 +1,7 @@
 
 /**/*.DS_Store
 /**/*.swp
+.hugo_build.lock
 
 # ignore markdown rendered html  
 vim-markdown-preview.html

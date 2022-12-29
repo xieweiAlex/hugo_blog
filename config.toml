@@ -19,7 +19,7 @@ ignoreErrors = ["error-output-taxonomy"]
   description = """
   This is my personal blog collecting my random thoughts. I'd like to write things down to make my thinking process clear, to improve my English writing ability. One stone two birds, what a good idea! 😄 
   """
-  publicationYear = "2021"
+  publicationYear = "2022"
 
 
 [outputs]
