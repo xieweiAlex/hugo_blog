@@ -1,16 +1,13 @@
-
 ---
-title: "Go Logseq"
+title: "Go Logseq: Build my 2nd brain"
 date: 2022-08-22
 draft: false
 tags: ["PKM", "Personal knowledge management", "Logseq"]
 ---
 
-## What issue I have now 
+## What' my main drive
 
 I started jotting down my notes digitally and plain text base for a while long time, I just wanted it simple, then one work.md and day.md started bloating, naturally I divide them into separate files for different purpose, e.g. "stock-trading-record", "vim/tmux cheatsheet", "linux common commands" etc, then I've got too many files and I often ended with lots similar and overlaps files. 
-
-
 
 Folder, file  
 
