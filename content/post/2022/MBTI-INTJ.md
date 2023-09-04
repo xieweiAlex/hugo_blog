@@ -1,51 +1,49 @@
 
 ---
-title: "INTJ is the way"
+title: "Go INTJ: my MBTI type"
 date: 2022-08-21
 draft: false
-tags: [ "summary", "strategy" ]
+tags: ["MBTI", "know thyself" ]
 ---
 
+![My test result](../../../static/img/Truity-MBTI.png)
 
-## Intro 
+# Intro 
 
-I've heard of MBTI for years and only took the test in [16personalities](https://www.16personalities.com/) few months ago, I loved it. As always, I regret that I didn't start it earlier. 
+I've heard of MBTI for years and finally took the test in [16personalities](https://www.16personalities.com/) few months ago, I loved it. As always, I regret that I didn't start it earlier. 
 
-I got my type identified as INTJ-A. The well-known people are "Little finger" in GOT, "Gandalf the Gray" in "The Lord of Rings", Elon Musk, Friedrich Nietzsche etc. 
+I got my type identified as INTJ-A. The well-known people are "Little finger" in Game of Thrones, "Gandalf the Gray" in "The Lord of the Rings", Elon Musk, Friedrich Nietzsche etc. 
 
 > As one of the rarest personality types – and one of the most capable – Architects (INTJs) know this all too well. Rational and quick-witted, Architects pride themselves on their ability to think for themselves, not to mention their uncanny knack for seeing right through phoniness and hypocrisy. But because their minds are never at rest, Architects may struggle to find people who can keep up with their nonstop analysis of everything around them.
 
-I do think this description fits me pretty well in a ballpark, I got a bit flattered of this characterization actually, but I'm not sure how practical and authentic this test is, as I'm always quite suspicious about psychology test. Out of curiosity, I joined a online MBTI meetup the other day, I was amazed by the enthusiasm of those members, and the endless analysis of those different types, and the unlimited resources of MBTI on internet, more importantly, I was challenged that I might not be an INTJ, as the host put "some people might like the **identity of INTJ**, who would like to consider themselves as INTJ, but actually live in their own little delusional bubble and only surround themselves with people who validate them"  
+I think this description resonates me pretty well overall, I even got a bit flattered by the characterization actually, but I'm not sure how much truth really in it, as I'm quite skeptical about online test. Out of curiosity, I joined an online MBTI meetup the other day, I was amazed by the enthusiasm of those members, and the endless analysis of the types and commonalities, and the abundant resources on internet. More importantly.  I was challenged that I might not be an INTJ, as the host put "some people might like the **identity of INTJ**, they would like to consider themselves as INTJ, but actually live in their own little "delusional bubble" and only surround themselves with people who validate them"  
 
-Of course I don't buy this argument, so I'd like to break it down and figure it out. 
+Of course I don't buy it, so I'd like to dive deep and figure it out if I can. 
 
-I watched [This video](https://www.youtube.com/watch?v=mKKzX-D2-GM) back and forth multiple times, I really appreciate his insights, I can try to regurgitate his ideas and try apply them in my life. 
+## I for Introverted, as it opposite to Extroverted  
+
+There is no doubt that I'm introverted, I spend most of time alone everyday, I need way more time alone than most people. Most of the social activities isn't my thing. I value peace of mind than exciting activities. 
+Though I'm a team player, I do like to work with people or talk with people/topics I genuinely interested about, I could be acting like an extrovert time to time, but overall, there shouldn't be question about it. 
+
+## N for Intuition, as opposed to Sensory   
+
+> This kind of person are drawn into abstraction, something like process, optimization, summary etc. 
+
+I've always known myself not very grounded. In general, I'm quite chill with most sensual stuff like food, clothes, appearance, even fun activities. Instead, I'm quite interested in something like the meaning of life, nutrition, psychology, business and power.    
+
+The podcast from Wall street Journal I've been listening for 5+ years, each episode it starts with saying "A podcast about money, business and power", it resonates me so well. 
+[podcast](https://www.wsj.com/podcasts/the-journal?mod=podcasts_tile)
 
 
-### I for Introverted, as opposed to Extroverted  
-
-There is no doubt that I'm introverted, I spend most of time alone everyday, and I need way more time alone than with people. Most of time social activity isn't my thing. I value peace of mind than fun activity. Though I do like to interact with people sometimes, especially the topic and activity I'm passionate about, I could talk a lot like an extrovert. 
-
-### N for Intuition, as opposed to Sensory   
-
-> This kind of person are drawn into abstraction, something like process, optimization, summary etc.  
-
-I've always noticed myself not a "down to the earth" person. I'm just not excited about those sensual things, like food, scenery, life experience etc (ofc I do like them occasionally). I found myself often drawn into economy(mainly macro economy), finance, stock option trading, politics, psychology, business, strategies etc.   
-
-
-### Process instead of get things done 
-
-I've always interested in how things work, especial abstract and pervasive things, for example, how society work, why some society is more productive/resilient than others. 
-
-#### transient pleasure
+### ephemeral vs ever-lasting  
 
 I have very little interest in trivial things (don't mean they're not important), or some sensory pleasure. For example, I'm quite easygoing with food, lots of people around me (most from Asia) having issue with American/western food, or they crave for Asian food, I'm an outlier. I'm pretty chill with whatever decent food I could get, I'm not eager to get better tasty food if not necessary.
 Don't get me wrong, I do appreciate tasty food, I do like Asian food way more than western food in general, but just my motivation & cravings are quite weak, I don't need them very often.  
 
-Instead I care way more in the healthy & nutrient side of the food, how my body likes them (besides of tongue), how could I tame my body to like the "right diet".  How could I make it more cost effective as money/time/energy perspective as I need to cook everyday under the forever pandemic. The same behavior in me applies to clothing, travel, entertainment, the list goes on and on. I'm a lousy consumer in this consumerism prevailed world.     
+Instead I care way more in the healthy & nutrient side of the food, how my body likes them (besides of taste buds), how could I train my body to adopt the "right diet".  How could I make it more efficient as money/time/energy wise, as I need to cook everyday under the forever pandemic. The same pattern in me applies to clothing, travel, entertainment etc. I'm not in the consumerism trap. 
 
 
-#### Abstraction 
+### Abstraction  
 
 My interest area is quite broad and strong, most are far-fetched ideas, as opposed to "down to the earth". I'm passionate about crypto/blockchain, finance, psychology, economy and politics etc, I talk loud and nonstop when topics fall into those area and I often don't notice myself.
 
@@ -56,9 +54,21 @@ Lots of things I do not only for the result, but during the process how it train
 fascinate by the idea, not to help with anything. 
 talk about idea just for the idea
 
-### T for Thinking, as opposed to Feeling  
+## T for Thinking, as it opposes to Feeling  
 
-For myself and the Asian culture I grew up with, it's very natural to downplay or even suppress feelings. I value thinking way more than feelings.  
+For people like me who grew up with Asian culture, it's very naturally to not be a "feeler". We were told million times that we're not good enough, not talented, not privileged, will not be liked if we don't follow the beaten path(golden path). There is a very classic word in China (and East Asia) called "忍", it literally means forbearance. Lots of people putting the enlarged character on the wall for inspiration and reminding. 
+
+Especially for males, but I believe it's quite similar in Western culture, males are not encouraged to show emotions or vulnerabilities, which could also causes lots of issue. 
+
+But genuinely I do value thinking way over feeling, I've always want to be tough and determined, working as efficiently as a machine, feelings has always been something extra for me. They're good to have, but not essential.
+
+<!-- If I want to do something, I need to know the reasons and motives, simply and clearly, I like things being simple, feelings are too complicated to me to figure out. --> 
+
+<!-- People around me probably know me that I'm usually quite calm, level-headed and lightly carefree. I've worked very hard on that, especially after I studied stoicism ( it is another topic I'll share in another post). I aspire to be a stoic, who could detach themselves with things are not under their control, and be -->     
+
+
+Looking back of my own life stories, I had few breakouts with people and made a handful of decisions that I really regret, I often think about them and hope I could be more rational. 
+
 
 There are few times, friends(very closed) called me out that I ignored their feelings, most of times I didn't really feel that, either consciously or unconsciously.
 
@@ -82,5 +92,10 @@ I like things in order, abstract things instead of physical, I can't say my phys
 
 I rarely being spontaneous, and I don't like myself being that most of time, I enjoy living in sober and level-headed, I treat everything as an investment, and I aspire to engineer my life and life events as much as I can. It might sound cold, but radical rationality is cold (Though I think I'm a warm person). 
 
+
+# In the end 
+
+## Resources 
+I watched [This video](https://www.youtube.com/watch?v=mKKzX-D2-GM) back and forth multiple times, I really appreciate his insights, I can try to regurgitate his ideas and try apply them in my life. 
 
 
