@@ -10,4 +10,5 @@
 	url = git@github.com:MeiK2333/github-style.git
 [submodule "themes/pulp"]
 	path = themes/pulp
-	url = https://github.com/koirand/pulp.git
+	url = https://github.com/oza/pulp
+	branch = remove-google_news-internal-template

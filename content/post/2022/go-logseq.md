@@ -2,7 +2,7 @@
 title: "Go Logseq: Build my 2nd brain"
 date: 2022-08-22
 draft: false
-tags: ["PKM", "Personal knowledge management", "Logseq"]
+tags: ["Personal knowledge management", "Logseq"]
 ---
 
 ## What' my main drive
