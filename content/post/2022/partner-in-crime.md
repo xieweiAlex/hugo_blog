@@ -1,87 +1,93 @@
 ---
-title: "Looking for a partner in crime"
+title: "Looking for a long-term partner "
 date: 2022-12-29
 draft: false
-tags: [ "relationship", "Romance" ]
+tags: [ "relationship", "looking" ]
 ---
 
-![Love Heart](../../../img/love-heart.jpg)
+![Love Heart](https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/love-heart.jpg)
 
 # How it started 
 
-I've been alone for a while, and I'm getting old(30+), I started feeling the urge to have a "partner in crime", AKA, feeling lonely. 
-So I asked around, and people have always ask back "what kind of girl/partner are you looking for? " I hate not being able to articulate what I'm looking, so I decided to write it down, since there is nothing secretive about. 
+As I've grown older (30+), I find myself spending more and more time alone. While I value my independence and peacefulness, I can't help but feel a need to get a partner in crime to share my life with. The feeling of loneliness has started to creep in, and I'm ready to find someone to settle if possible.
 
-Basically, I'm looking for a girl who is just like me, having similar values and lifestyles, I believe that's what makes a relationship successful.   
+So I asked around in my friend circle, I often get asked the same question, "what kind of partner are you searching for?" It frustrates me when I can't lay out my thoughts straight, and it's very inefficent. So I figured I could write them down, since there is nothing secretive about. 
 
-I'm a happy person overall, I don't want to break my inner peace. I've seen some couples holding quite different values/lifestyles, they often fight on things which is predicable, I don't want to be like that. But who knows, every couples have their own problems to solve, I might end with exactly I what I want to avoid, lol, I hope not. 
-
-Disclaimer: I'm aware in real life lots of rules / preference / logic don't apply when chemistry happen, so we can take it as a grain of salt. 
-
+Basically I'm looking for a girl who is similar to me, who shares similar value and lifestyle, I believe that's what makes a relationship successful.   
 
 # Values I look for 
 
-### Positive / Optimistic vibes 
-I'm an optimistic and happy person in general, and I value it. 
-I live by hope, as opposed to fear, anxiety, or other negative stuff. I strive to be better day to day, and I'm happy to see progress. 
+### Positive Vibes 
 
-It's hard for me to work/live with negative people, or people who are over-pessimistic. Even though I know sometimes their points are valid, but if there is no hope or action could be taken place, I would not enjoy whining about them. 
+I am a naturally optimistic and happy person, and I value it. And I have also worked hard for it.
 
-### Receptive / Open-minded 
+I find it challenging to work or live with pessimistic/negative people. While I do understand people could have concerns, complaints, trauma etc, but they have to be contained in my view.   
 
-I'm from China, and as much as I love American/Western culture, I can't deny that deep down I still hold a lot of value from Asian culture in general. I think ideally she is an Asian descendant or quite into Asian culture. (ps. I need to write another an article about what I see the difference Asian culture vs American culture. )
+Don't get me wrong, I do my fair share of venting often, but I am actively trying to improve and be more positive all the time.
 
-I'm quite open-minded, and I like to learning new things(tools/ideas/concepts), and anything related to productivity and self-improvement. 
-Not necessarily my partner needs to like/agree with whatever I'm pursuing, but it would be great if she has similar mindset, we can learn and grow together. 
+### Receptive / Open-minded / learn and change 
 
-For example, in this year 2022, I've embarked on quite some explorations. I see myself would stick with them for quite some time.  
-Fermentation (Sauerkraut, Kombucha, kimchi, yogurt, etc),  MBTI (personality test), and stoicism (ancient philosophy), just to name a few. I've probably invested 100+ hours in each of them, and I love to talk about them anytime. 
+I came from a country on the other side of the Pacific Ocean. While I have a deep appreciation for American and Western culture, I cannot deny that my Asian roots in my heart. Ideally, I would love to find someone who shares a similar background or interested in Asian culture.
 
-I like to learn new things and apply to my day to day life, it makes me happy. When they conflict with traditions, often I'd ditch the traditions, so ideally my partner is not very traditional.   
+PS. I would like to write an article discussing the differences between Asian culture and American culture.
 
-For example, I've been eating white rice my whole life, and I've ditched it without issue (besides dinning out). I don't eat breakfast (I do 16:8 intermittent fasting,  breakfast is not the most important meal of the day), just to new a few. 
+I'm quite curious and open-minded most of time, feeling excited to learn new things and expand my knowledge sphere. It would be a pain for both us if you want to stay "rest and vest". 
 
-### Supportive, feminine
 
-My ideal partner would be compassionate, loving, considerate, etc, just some typical feminine traits I guess.  
-I'm not a "male chauvinistic" person in any sense, on the contrary, I see myself as a mild feminist. I like independent souls, but strong-minded/feisty females are not my ideal choice. 
+<!-- I am particularly interested in topics related to productivity and self-improvement, constantly seeking ways to enhance my personal growth. -->
+<!-- It is not a requirement for my partner to support my pursuits, but it would be beautiful if we share a similar mindset and can support each other's growth and learning. -->
 
+
+<!-- I find joy in applying what I've learned to my daily life. However, I often encounter conflicts with traditional practices. I struggle to understand why people continue to adhere to traditions when they know they are wrong or there is a better alternative. I understand that change can be difficult though. -->
+
+<!-- For instance, I have always eaten white rice, but I have recently cut it out of my diet in an effort to reduce carbs intake (except when eating out with others). I also do not eat breakfast, as I follow a 16:8 intermittent fasting schedule (contrary to the belief that breakfast is the most important meal of the day). These are just a few examples of how I incorporate my learning into my daily routine. -->
+
+
+### Supportive / Empathetic / Feminine trait
+
+Despite not being a Feeler(In MBTI's parlance), I believe my upbringing has made me less attuned to emotions. However, I highly value female who are caring, supportive, and empathetic. Smart, ambition, and being strong are not very necessary trait for me, as I am happy to take on the traditional masculine role of responsibility. 
+
+I do not consider myself a macho person by the way, I'm a mild feminist.
 
 # Lifestyles I look for 
 
-### Abstraction vs Sensing 
-In MBTI's parlance, I'm a "Ni" (Introverted Intuitive) person, I'm drawn into abstraction, as opposed to tangible materials/experience. 
+### Intuition 
 
-For example, my typical table topics are mostly related to economy, business, habit, psychology, learning, tools(software, ideas, gadgets) etc. And I often found myself despising those material, superficial, sensual stuff/experiences. For instance: fine dining, clothing, partying, "excessive cleaning" etc. 
+In MBTI's parlance again: I am an "Ni" (Introverted Intuitive) person, meaning I am naturally drawn to abstract things/concepts rather than tangible objects.
 
-Bringing this up not to put it as a requirement but to seek understanding, I know lots of people are not like me, and I can surely understand. I hope my partner understands my interest as well.
+For example, my typical table topics often centered around like macro/micro economy, technology, business, personal growth, and psychology. I tend to overlook discussions about material possessions/obsessions or sensory experiences, such as fine dining, sightseeing, beauty, partying etc.
 
-### Emotion  
-I'm quite emotionally stable, and I value it. I've seen many people who are not, and not even working on it, nor see it as a problem, that's a big no-no to me. 
+Bringing this up not to put it as a requirement but to seek understanding, I know lots of people are not like me, and I understand. I hope my partner understands my interest as well.
 
-I believe in stoicism(an ancient Greek philosophy), the overarching idea of stoicism is accepting what you can't control, and having the courage to change what you can, and the wisdom to tell the difference.  
+### Emotional Stability  
 
-Maintaining a consistent light mood is essential for me, I don't expect everyone, myself included, could achieve that easily, we could work on that at least.
+I am happy to say that I am quite emotional stable and I place a high value on it. It is disheartening for me to see people who struggle with their emotions. 
+
+I find solace in learning Stoicism(an ancient Greek philosophy). As Nasim Taleb eloquently stated, Stoicism is “the domestication of emotions, not their elimination.”
+
+Maintaining a consistent light mood is critically important for me. I understand that it may not be easy for everyone, myself included, to achieve this consistently. Let's work together to improve on this aspect.
 
 ### Money 
-I live quite frugal comparing with most people around me, I often joke about that my spending capability is like a new grad. And I'm actually proud of it. 
 
-I had a humble beginning growing up, I have always lived below my means, I guess it is probably applicable to most immigrants.    
+I have always been known for my frugal lifestyle, I often joke about it that my spending habits are more inline with a new grad. But for me, it's a conscious choice. I have very little interest in material possessions and I do prioritize saving money. As long as it doesn't affect my health or consume too much of my time.
 
-So I probably won't be happy with people who enjoy extravagant(money-wise) lifestyle. I don't mean we can't indulge ourselves with some worldly pressure, we certainly can, but just do it sparingly.  
+I may not be fond of people who constantly seek out a lavish lifestyle. While I understand the occasional desire to indulge in worldly pleasures, I believe it should be done consciously and in moderation.
 
-I'm a big believer in investing, currently, I'm mostly invested in risky assets (stock and crypto), and I'd gradually move some of them to Real Estate and other safer assets. I hope my partner would not be a risk-averse person.  
+I strongly believe in the power of investing and currently have a significant portion of my portfolio allocated to high-risk assets such as stocks and crypto(Bitcoin). However, as I continue to grow and diversify my investments, I plan to gradually shift towards more stable assets like Real Estate and bonds. It's important to me that my partner shares a similar mindset and is not too much afraid to take calculated risks.
 
-### Active 
+### Active, Energy (Physically and mentally) 
 
-I like all kinds of sports and workouts, I value maintaining a fit body as a foundation of health. I hope my partner would enjoy physical activity as well, and we can do something like hiking, jogging, swimming, or kayaking in our spare time. 
+I am passionate about staying active both physically and mentally. I am looking for a partner who also values physical activity and would be open to joining me in activities such as hiking, jogging, swimming, kayaking etc, and more during our free time.
 
-I like to workout, I like to be energetic etc, I hope you have some similarities.  
+I am also enthusiastic about continuous learning and broadening my understanding. Whether it's delving into new concepts, experimenting with different techniques, or trying out new recipes, I am constantly seeking ways to expand my knowledge. I take great pleasure in sharing my findings with my partner and am always eager to see their response.
+
+<!-- ### Energy matches  -->
 
 ## Physical Appearance
-I'm not a saint, I do like attractive girls of course. But I care about body shape and overall energy way more than pretty face.  
 
-# In the end 
+I'm not a saint, I'm also attracted to good-looking girls. However, I've come to understand that physical appearance isn't a very important factor in a relationship(Of course it's nice to be photogenic). What truly matters is compatibility in terms of personality, values, and lifestyle match.
 
-Here you have it, primarily just "Values" and "Lifestyles". Of course, there are some other things I care about, we can go from here.  
+## In the end 
+
+There you have it! These are the things I can think of for a successful relationship for me. Of course, the list is not exhaustive, but we can start from here.
 

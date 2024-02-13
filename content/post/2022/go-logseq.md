@@ -5,6 +5,8 @@ draft: false
 tags: ["Personal knowledge management", "Logseq"]
 ---
 
+<!-- ![logseq logo](https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/logseq.png) -->
+
 ## What' my main drive
 
 I started jotting down my notes digitally and plain text base for a while long time, I just wanted it simple, then one work.md and day.md started bloating, naturally I divide them into separate files for different purpose, e.g. "stock-trading-record", "vim/tmux cheatsheet", "linux common commands" etc, then I've got too many files and I often ended with lots similar and overlaps files. 
