@@ -5,6 +5,8 @@ draft: false
 tags: ["Journal"]
 ---
 
+![Journal-Sunrise](https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/journal-sunrise.png)
+
 ## Motivation for writing this
 
 I have always enjoyed sharing what I have learned, what excites me, and what I am pondering. However, more often than not, the people around me are not as enthusiastic about these topics as I am.
@@ -52,7 +54,6 @@ NAS, or Network Attached Storage, is a system that allows for easy access to dat
 
 I should write a blog post about it.
 
-
 ### Proxy server
 I love chatGPT so much that our company blocked it on VPN frustrated me 🙁. Since I have an old laptop collecting dust, I figured I could use it as a proxy server for VPN and my on duty laptop be an client, that's such a brilliant idea. All credit to Shane, again!  
 
@@ -74,7 +75,6 @@ I struggle with neck pain on daily basis, it hurts me both physically and mental
 I have been doing neck exercises every day since last week in hopes of alleviating the pain. If the pain persists, I may need to seek treatment from a chiropractor or physical therapist.
 
 [Neck Pain Relief Exercises in 5 min](https://www.youtube.com/watch?v=Q12nIfVCpdU)
-
 
 ### Loneliness 
 

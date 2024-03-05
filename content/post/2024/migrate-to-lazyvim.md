@@ -6,20 +6,23 @@ draft: true
 tags: ["Journal"]
 ---
 
+[how it started](#How-it-started )
+
 ## How it started 
 Using Vim for 10 years. 
 craftmanship
 
-## How do I like it 
+Vim and Neovim separation.  
+
+
+### How do I like it 
 Nice interactive interface. 
 ecosystem, hand free, community suggested pkgs.
 
 ### What I don't like 
-It's a bit clunky
+It's a bit clunky and slow
 Lots of time deciding whether I should adapt "community guidance"
 
 
 ## In the end 
-
-
 
